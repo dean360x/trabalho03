@@ -1,0 +1,88 @@
+
+body{
+  width: 960;
+  margin: 0%;
+  background-color: bisque;
+}
+
+.box{
+  width: 960;
+  margin-left: 195px;
+}
+
+ 
+  
+  
+  
+  .ecima{
+    width: 960px;
+    height: 150px;
+    background: darkred;
+    box-shadow:1px 1px 2px darkgray;
+    margin: 1%;
+    margin-left:90px;
+  }
+
+
+
+  .direita{
+    width: 520px;
+    height: 550px;
+    background: yellow;
+    box-shadow:1px 1px 2px darkgray;
+    margin: 1%;
+    margin-left:90px;
+  }
+
+  .meio{
+   
+    width: 200px;
+    height: 550px;
+    background: goldenrod;
+    box-shadow:1px 1px 2px darkgray;
+    margin: 1%;
+    margin-left:90px;
+    position: absolute;
+    margin-left: 620px;
+    top: 166px;
+  }
+
+  .esquerda{
+    width: 200px;
+    height: 550px;
+    background:greenyellow;
+    box-shadow:1px 1px 2px darkgray;
+    margin: 1%;
+    margin-left:60px;
+    position: absolute;
+    margin-left: 850px;
+    top: 166px;
+  }
+
+.imagemDireita{
+  position: absolute;
+  margin-left: 60px;
+  margin-top: 15px;
+}
+
+.imagemMeio{
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+.imagemEsquerda{
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+.paragrafo01{
+  position: absolute
+}
+.paragrafo02{
+  position: absolute
+}
+.paragrafo03{
+  position: absolute
+}
